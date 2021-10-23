@@ -8,11 +8,10 @@ export const Container = styled.View `
 export const MenuButton = styled.TouchableOpacity`
     height:70px;
     align-Items:center;
-    margin:4px 5px
-`
+    margin:4px 5px;
+`;
 
-export const Title = styled.Text `
-    
+export const Title = styled.Text`
     color:#FFF;
 	font-size:20px;
 	font-weight: bold;
